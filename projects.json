@@ -1,0 +1,358 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Aegis Vault",
+      "category": "Web",
+      "stack": ["HTML", "CSS", "JavaScript", "jQuery", "GSAP", "SwiperJS", "AOS", "Typed.js", "Fancybox", "OwlCarousel", "Boxicons"],
+      "description": "Website kompetisi Web Design ITCC 2025 dengan animasi interaktif dan UI modern.",
+      "features": [
+        "Animasi scroll dengan AOS",
+        "Carousel dengan SwiperJS & OwlCarousel",
+        "Animasi teks dengan Typed.js",
+        "Lightbox gallery dengan Fancybox",
+        "Animasi GSAP"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 2,
+      "title": "DOI - Digital Online Invitation",
+      "category": "Web",
+      "stack": ["Laravel", "Blade", "MySQL", "Vite", "Google OAuth", "JavaScript"],
+      "description": "Platform undangan digital untuk berbagai acara seperti pernikahan, ulang tahun, aqiqah, reuni, dan seminar.",
+      "features": [
+        "Multi-template undangan",
+        "RSVP management",
+        "Google OAuth login",
+        "Export tamu ke CSV/Excel",
+        "Sistem expiry undangan",
+        "Dashboard admin & user"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 3,
+      "title": "Farm - Cattle Management System",
+      "category": "Web",
+      "stack": ["Laravel", "Tailwind CSS", "Vite", "MySQL", "JavaScript"],
+      "description": "Sistem manajemen peternakan sapi dengan fitur pencatatan kandang, transaksi, dan monitoring.",
+      "features": [
+        "Manajemen data sapi",
+        "Kelola kandang",
+        "Pencatatan transaksi",
+        "Dashboard admin",
+        "Manajemen user"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 4,
+      "title": "Kacirebonan",
+      "category": "Web",
+      "stack": ["HTML", "CSS", "JavaScript"],
+      "description": "Website informasi budaya dan kuliner Cirebon sebagai media promosi wisata dan kebudayaan daerah.",
+      "features": [
+        "Informasi batik Cirebon",
+        "Galeri budaya",
+        "Info kuliner Cirebon",
+        "Tari & seni pertunjukan",
+        "Halaman kontak"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 5,
+      "title": "Pinba - Marketplace Platform",
+      "category": "Web",
+      "stack": ["Laravel", "Sanctum API", "MySQL", "Mazer Admin", "JavaScript"],
+      "description": "Platform marketplace dengan sistem backend API dan panel admin berbasis Mazer template.",
+      "features": [
+        "REST API dengan Sanctum",
+        "Dashboard admin Mazer",
+        "Manajemen produk",
+        "Listing & detail produk",
+        "Halaman about & contact"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 6,
+      "title": "RAB - Rencana Anggaran Biaya",
+      "category": "Web",
+      "stack": ["Laravel", "Vite", "MySQL", "Repository Pattern", "JavaScript"],
+      "description": "Aplikasi pengelolaan Rencana Anggaran Biaya (RAB) proyek dengan fitur analisis dan pelaporan.",
+      "features": [
+        "Manajemen proyek",
+        "Input item RAB",
+        "Realisasi anggaran",
+        "Analisis & reporting",
+        "Activity log",
+        "Master data satuan & pekerjaan"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 7,
+      "title": "Rawat Tani - GEMASTIK XVIII",
+      "category": "Web",
+      "stack": ["FastAPI", "Next.js", "TypeScript", "PyTorch", "Firebase Auth", "Tailwind CSS", "Alembic"],
+      "description": "Aplikasi deteksi penyakit tanaman berbasis AI untuk membantu petani. Proyek kompetisi GEMASTIK XVIII.",
+      "features": [
+        "Deteksi penyakit tanaman dengan ML",
+        "Model EfficientNet PyTorch",
+        "Autentikasi Firebase",
+        "Dashboard petani",
+        "API dokumentasi lengkap",
+        "Manajemen lahan & musim tanam"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 8,
+      "title": "Stadion-360 - Smart Stadium",
+      "category": "Web",
+      "stack": ["React", "React Router", "TypeScript", "Tailwind CSS", "Vite", "Docker"],
+      "description": "Dashboard monitoring stadion pintar dengan fitur keamanan, kebersihan, dan simulasi. Kompetisi ITC 2025.",
+      "features": [
+        "Dashboard monitoring real-time",
+        "Peta stadion interaktif",
+        "Panel keamanan & alerts",
+        "Monitoring kebersihan",
+        "Simulator skenario",
+        "Activity log"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 9,
+      "title": "Api Claim - Claim Management",
+      "category": "Web",
+      "stack": ["CodeIgniter 4", "AdminLTE", "MySQL", "JavaScript"],
+      "description": "Sistem manajemen klaim dengan multiple versi dan fitur backup database terintegrasi.",
+      "features": [
+        "Manajemen klaim",
+        "Dashboard AdminLTE",
+        "Version control system",
+        "Backup database",
+        "Multi-environment support"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 10,
+      "title": "Api Docs - Document Validator",
+      "category": "Web",
+      "stack": ["Laravel", "Blade", "MySQL", "JavaScript"],
+      "description": "Aplikasi validasi dan manajemen dokumen dengan dashboard lengkap berbasis Mazer.",
+      "features": [
+        "Validasi dokumen",
+        "Dashboard components",
+        "Gallery & file upload",
+        "Chart visualization",
+        "Email & chat integration"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 11,
+      "title": "Api Limit - API Rate Limiter",
+      "category": "Web",
+      "stack": ["CodeIgniter 4", "PHPOffice", "MySQL", "AdminLTE"],
+      "description": "Sistem manajemen API dengan fitur rate limiting, import CSV, dan monitoring penggunaan.",
+      "features": [
+        "API rate limiting",
+        "Import/export CSV",
+        "PHPOffice integration",
+        "Dashboard monitoring",
+        "Session management"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 12,
+      "title": "Api Profile - Company Profile",
+      "category": "Web",
+      "stack": ["Laravel", "Blade", "MySQL", "Route Encryption", "JavaScript"],
+      "description": "Website company profile dengan sistem enkripsi route dan manajemen konten dinamis.",
+      "features": [
+        "Manajemen produk & kategori",
+        "Halaman karir",
+        "Partner management",
+        "Stock points",
+        "Route encryption security",
+        "Dashboard admin"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 13,
+      "title": "Api Roda - Vehicle Management",
+      "category": "Web",
+      "stack": ["CodeIgniter 4", "DomPDF", "mPDF", "PHPOffice", "MySQL"],
+      "description": "Sistem manajemen kendaraan operasional dengan fitur pencatatan BBM, service, dan laporan PDF.",
+      "features": [
+        "Manajemen kendaraan",
+        "Pencatatan BBM",
+        "Rekap biaya & service",
+        "Mutasi kendaraan",
+        "Export PDF dengan DomPDF/mPDF",
+        "Import/export Excel"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 14,
+      "title": "Controlling App",
+      "category": "Python",
+      "stack": ["Python", "PyInstaller"],
+      "description": "Aplikasi desktop untuk kontrol dan monitoring dengan versi berbeda untuk berbagai kebutuhan.",
+      "features": [
+        "Multiple version support",
+        "Desktop executable",
+        "Control interface"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 15,
+      "title": "Batch PDF Downloader",
+      "category": "Python",
+      "stack": ["Python", "PyInstaller", "PyArmor"],
+      "description": "Tool untuk download dan produksi PDF secara batch dengan konfigurasi JSON.",
+      "features": [
+        "Batch PDF download",
+        "Configurable via JSON",
+        "Build to executable",
+        "Protected with PyArmor"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 16,
+      "title": "Excel Helper - Excel Merger",
+      "category": "Python",
+      "stack": ["Python", "openpyxl", "PyInstaller"],
+      "description": "Tool untuk menggabungkan multiple file Excel menjadi satu file dengan mudah.",
+      "features": [
+        "Merge multiple Excel files",
+        "Desktop executable",
+        "Simple interface"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 17,
+      "title": "CoreTax List - Tax Data Extractor",
+      "category": "Python",
+      "stack": ["Python", "Requests", "PyInstaller", "Nuitka"],
+      "description": "Aplikasi ekstraksi data pajak dari CoreTax dengan fitur token caching dan server integration.",
+      "features": [
+        "CoreTax data extraction",
+        "Token caching",
+        "Token server integration",
+        "Build with PyInstaller/Nuitka",
+        "Database configuration"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 18,
+      "title": "OSINT Investigation Tool",
+      "category": "Python",
+      "stack": ["Python", "SQLite", "Google API", "Matplotlib", "Tkinter"],
+      "description": "Tool investigasi OSINT lengkap dengan fitur analisis entitas, network graph, dan export report.",
+      "features": [
+        "Entity network analysis",
+        "Google API integration",
+        "EXIF data extraction",
+        "GPS analysis",
+        "Export to PDF/Excel/CSV",
+        "Proxy support",
+        "Investigation history database"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 19,
+      "title": "PDF Converter & Organizer",
+      "category": "Python",
+      "stack": ["Python", "PyInstaller"],
+      "description": "Tool konversi dan organisasi file PDF dengan konfigurasi minimal.",
+      "features": [
+        "PDF conversion",
+        "File organization",
+        "Configurable settings",
+        "Desktop executable"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 20,
+      "title": "PDF Search - FTP Deep Analysis",
+      "category": "Python",
+      "stack": ["Python", "FTP", "PyInstaller"],
+      "description": "Tool pencarian dan analisis PDF dari FTP server dengan support multi-architecture (x64/x86).",
+      "features": [
+        "FTP deep analysis",
+        "Multi-search capability",
+        "x64 & x86 support",
+        "Optimized download",
+        "Windows 7 compatible"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 21,
+      "title": "PDF Splitter",
+      "category": "Python",
+      "stack": ["Python", "PyPDF2", "PyInstaller"],
+      "description": "Tool untuk memisahkan halaman PDF menjadi file terpisah dengan berbagai opsi.",
+      "features": [
+        "Split PDF pages",
+        "Multiple version support",
+        "Desktop executable"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    },
+    {
+      "id": 22,
+      "title": "PDF Utility Suite",
+      "category": "Python",
+      "stack": ["Python", "PyPDF2", "PyInstaller"],
+      "description": "Suite lengkap utilitas PDF mencakup converter, merger, splitter, text extractor, dan security.",
+      "features": [
+        "PDF conversion",
+        "Merge PDF files",
+        "Split PDF pages",
+        "Extract text from PDF",
+        "PDF security/encryption",
+        "PDF info viewer",
+        "Desktop executable"
+      ],
+      "github_link": "",
+      "thumbnail_url": ""
+    }
+  ]
+}
