@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=220&section=header&text=ADI%20PEBRIAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
   <p align="center">
-    <a href="https://adipebrian.github.io/"><img src="https://img.shields.io/badge/Website-adipebrian.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+    <a href="https://p3bcode.github.io/"><img src="https://img.shields.io/badge/Website-p3bcode.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
     <a href="https://www.linkedin.com/in/adipe5/"><img src="https://img.shields.io/badge/LinkedIn-Adi%20Pebrian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:pebrianadi05@gmail.com"><img src="https://img.shields.io/badge/Email-pebrianadi05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
@@ -18,7 +18,7 @@
 Graduated in **Computer and Network Engineering**. Specialized in web development with deep expertise in modern PHP ecosystems (**Laravel**, **CodeIgniter**), frontend technologies, and integrating **Machine Learning & Artificial Intelligence** solutions into web applications.
 
 - 🔭 **Currently Working On:** Intelligent Web Applications & Modern Microservices.
-- 🎓 **Background:** Computer & Network Engineering (SMK Negeri 1 Lemahabang).
+- 🎓 **Background:** Computer & Network Engineering.
 - 🏆 **Achievements:** 6x National & Regional Web Competition Winner.
 - ⚡ **Soft Skills:** Collaboration, Problem Solving, Attention to Detail, Creativity.
 
@@ -58,14 +58,6 @@ Graduated in **Computer and Network Engineering**. Specialized in web developmen
   <img src="https://img.shields.io/badge/Network_Engineering-000000?style=flat-square&logo=mikrotik&logoColor=white" />
 </p>
 
----
-
-### 💼 Professional Experience
-
-| Position | Company / Event | Period & Location | Key Responsibilities |
-| :--- | :--- | :--- | :--- |
-| **EDP Staff** | PT. Andalan Prima Indonesia | Aug 2022 — Present \| Jakarta | Data processing, database management, troubleshooting, & web application development. |
-| **Web Developer** | Digital Online Invitation | May 2022 \| Cirebon | Developed online invitation generators, improved operational efficiency by 20%. |
 
 ---
 
@@ -80,13 +72,6 @@ Graduated in **Computer and Network Engineering**. Specialized in web developmen
 
 ---
 
-### 🎓 Education
-
-* **SMK Negeri 1 Lemahabang** (2019 – 2022)
-  * Major: *Computer and Network Engineering (TKJ)*
-  * Leadership: Head of Scout Organization & IT Community Leader
-
----
 
 ### 📊 GitHub Activity & Stats
 
