@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Header Banner Visual Inspired by CV Theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=220&section=header&text=ADI%20PEBRIAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=ADI+PEBRIAN&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=P3BCODE&descSize=20&descAlign=50&descAlignY=63" width="100%" alt="Header Banner" />
 
   <p align="center">
     <a href="https://p3bcode.github.io/"><img src="https://img.shields.io/badge/Website-p3bcode.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
     <a href="https://www.linkedin.com/in/adipe5/"><img src="https://img.shields.io/badge/LinkedIn-Adi%20Pebrian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:pebrianadi05@gmail.com"><img src="https://img.shields.io/badge/Email-pebrianadi05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:pebrianadi0102@gmail.com"><img src="https://img.shields.io/badge/Email-pebrianadi05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
 </div>
